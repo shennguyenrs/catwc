@@ -1,5 +1,7 @@
 # catwc
 > My combine command from cat and wc
+
+![User Guide](./2020-12-03_21-25.png)
 ## SYNOPSIS
 catwc [OPTION]... [FILE(S)]...
 ## DESCRIPTION
